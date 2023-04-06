@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-weather",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AntonVoronezh/nodejs-weather.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AntonVoronezh/nodejs-weather/issues"
+  },
+  "homepage": "https://github.com/AntonVoronezh/nodejs-weather#readme"
+}
